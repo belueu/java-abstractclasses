@@ -7,6 +7,6 @@ public class Penguin extends Bird {
 
     @Override
     public void fly() {
-        System.out.println("Penguins are flightless birds");
+        System.out.println("Penguins can swim very well");
     }
 }
